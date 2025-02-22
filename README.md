@@ -14,29 +14,37 @@
 Heyy its Youcef, this is everything you need to know about me!
 
 
-📈I've been partaking in a DevOps Bootcamp called CoderCo for a few months now and the amount of learning I've managed to accumilate is way beyond what I thought I was capable of.
+🚀 DevOps Engineer in the Making – Passionate about AWS, Kubernetes, Terraform, and automation.
 
+🛠️ Hands-on with Cloud & Infrastructure – Building scalable systems with Helm, ArgoCD, and GitHub Actions.
 
-😅Another thing that never fails to amaze me is also how far I've gone from not knowing what an IP Address was to being able to deploy an application to my ECS + route it to my Route 53. 
-
-
-🛠️Getting my hands dirty with projects has truly shown me the reality of being a DevOps Engineer, turning an instruction covering 1-2 lines to a complex infrastructure that carries out exactly what's needed.
+🔍 Always Learning & Optimizing – Exploring best practices in CI/CD, security, and infrastructure as code.
 
 
 
-## 🛠 Skills
+## 🛠 Tech stack:
+## 🛠 Tech Stack  
 
+### 🚀 Cloud & Infrastructure  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)  
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)  
 
-🐋 **Docker Fundementals**
+### 🔧 CI/CD & Automation  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 
+### 🔍 Monitoring & Security  
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
-⚙️ **Linux Fundementals**
+---
+💡 *Always exploring new tools & best practices!*
 
-
-🧱 **Terraform Fundementals**
-
-
-🕳 **CI/CD Pipelines**
 
 
 
