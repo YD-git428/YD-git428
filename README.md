@@ -49,7 +49,7 @@ Heyy its Youcef, this is everything you need to know about me!
 💎 Add more README.md files to my directories
 
 
-💎 Finish the remaining bits of our AWS and Kubernetes modules set by CoderCo
+💎 Lean more about the Azure Cloud in a recent project set by CoderCo
 
 
 
