@@ -8,10 +8,10 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/youcef-derder-a5539221a) 
 
 
-### 🚀 About Me
+### About Me
 
 
-Heyy its Youcef, this is everything you need to know about me!
+#### This is everything you need to know about me!
 
 
 🚀 DevOps Engineer in the Making – Passionate about AWS, Kubernetes, Terraform, and automation.
